@@ -1,0 +1,3 @@
+[submodule "windefender/files/windows-defender"]
+	path = windefender/files/windows-defender
+	url = https://github.com/extra2000/windows-defender.git
